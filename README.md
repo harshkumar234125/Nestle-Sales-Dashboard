@@ -30,6 +30,6 @@ KPI Tiles: Display of total revenue ($30.82M), average revenue ($1,701), and tot
 
 6. Screenshots
    Show that the dashboard looks like
-   This : 
+   This : harshkumar234125/Nestle-Sales-Dashboard/blob/main/Nestle%20Sales%20Dashboard.png
 
  
